@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+
+.cutmsg{
+              text-decoration: line-through
+}
+
+@tailwind utilities;
